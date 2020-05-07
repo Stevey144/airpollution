@@ -12,7 +12,7 @@ include('includes/functions.php');
 
     if(isset($_GET['cus_id'])){
 
-        $user_id   =   $_GET['cus_id'];
+       $user_id  =   $_GET['cus_id'];
      }
 
     //require database class files
